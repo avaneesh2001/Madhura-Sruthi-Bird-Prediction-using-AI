@@ -1,0 +1,268 @@
+{
+    "bkcbul1": [
+        "Flame-throated Bulbul",
+        "Rubigula gularis",
+        "Passeriformes",
+        "Pycnonotidae (Bulbuls)",
+        "Hills of sw India (w Mysore to Kerala and Tamil Nadu)"
+    ],
+    "bkskit1": [
+        "Black-winged Kite",
+        "Elanus caeruleus",
+        "Accipitriformes",
+        "Accipitridae (Hawks, Eagles, and Kites)",
+        "Pakistan to e China, Indochina and Malay Peninsula"
+    ],
+    "blakit1": [
+        "Black Kite",
+        "Milvus migrans",
+        "Accipitriformes",
+        "Accipitridae (Hawks, Eagles, and Kites)",
+        "Indian subcontinent to Indochina and Malay Peninsula"
+    ],
+    "brasta1": [
+        "Brahminy Starling",
+        "Sturnia pagodarum",
+        "Passeriformes",
+        "Sturnidae (Starlings)",
+        "E Afghanistan to Bangladesh, s Nepal, India and Sri Lanka"
+    ],
+    "brcful1": [
+        "Brown-cheeked Fulvetta",
+        "Alcippe poioicephala",
+        "Passeriformes",
+        "Leiothrichidae (Laughingthrushes and Allies)",
+        "W India (W Ghats from s Mysore to Kerala and Palni Hills)"
+    ],
+    "brnhao1": [
+        "Brown Boobook",
+        "Ninox scutulata",
+        "Strigiformes",
+        "Strigidae (Owls)",
+        "N India to w Assam and central peninsular India"
+    ],
+    "brodro1": [
+        "Bronzed Drongo",
+        "Dicrurus aeneus",
+        "Passeriformes",
+        "Dicruridae (Drongos)",
+        "India to southwestern China, Myanmar, Thailand, Indochina, and the Thai-Malay Peninsula"
+    ],
+    "cohcuc1": [
+        "Common Hawk-Cuckoo",
+        "Hierococcyx varius",
+        "Cuculiformes",
+        "Cuculidae (Cuckoos)",
+        "India to Nepal, Bangladesh and Myanmar"
+    ],
+    "commyn": [
+        "Common Myna",
+        "Acridotheres tristis",
+        "Passeriformes",
+        "Sturnidae (Starlings)",
+        "SE Iran to India and SE Asia; introduced widely worldwide"
+    ],
+    "comsan": [
+        "Common Sandpiper",
+        "Actitis hypoleucos",
+        "Charadriiformes",
+        "Scolopacidae (Sandpipers and Allies)",
+        "Palearctic; winters to s Africa, c Asia, Philippines and Australia"
+    ],
+    "comtai1": [
+        "Common Tailorbird",
+        "Orthotomus sutorius",
+        "Passeriformes",
+        "Cisticolidae (Cisticolas and Allies)",
+        "Pakistan and peninsular India"
+    ],
+    "eurbla2": [
+        "Indian Blackbird",
+        "Turdus simillimus",
+        "Passeriformes",
+        "Turdidae (Thrushes and Allies)",
+        "western, central, and southeastern India "
+    ],
+    "graher1": [
+        "Gray Heron",
+        "Ardea cinerea",
+        "Pelecaniformes",
+        "Ardeidae (Herons, Egrets, and Bitterns)",
+        "Eurasia to Manchuria, India, Africa and Comoro Islands"
+    ],
+    "greegr": [
+        "Great Egret",
+        "Ardea alba",
+        "Pelecaniformes",
+        "Ardeidae (Herons, Egrets, and Bitterns)",
+        "Central Europe to central Asia (south to Iran)"
+    ],
+    "grehor1": [
+        "Great Hornbill",
+        "Buceros bicornis",
+        "Bucerotiformes",
+        "Bucerotidae (Hornbills)",
+        "Lowlands of India to sw China, SE Asia and Sumatra"
+    ],
+    "grenig1": [
+        "Great Eared-Nightjar",
+        "Lyncornis macrotis",
+        "Caprimulgiformes",
+        "Caprimulgidae (Nightjars and Allies)",
+        "SW India"
+    ],
+    "grnsan": [
+        "Green Sandpiper",
+        "Tringa ochropus",
+        "Charadriiformes",
+        "Scolopacidae (Sandpipers and Allies)",
+        "N Eurasia; winters to s Africa, s Asia, Philippines and Australia"
+    ],
+    "grtdro1": [
+        "Greater Racket-tailed Drongo",
+        "Dicrurus paradiseus",
+        "Passeriformes",
+        "Dicruridae (Drongos)",
+        " N India to n Myanmar and n Vietnam"
+    ],
+    "gryfra": [
+        "Gray Francolin",
+        "Ortygornis pondicerianus",
+        "Galliformes",
+        "Phasianidae (Pheasants, Grouse, and Allies)",
+        " S India and Sri Lanka"
+    ],
+    "grywag": [
+        "Gray Wagtail",
+        "Motacilla cinerea",
+        "Passeriformes",
+        "Motacillidae (Wagtails and Pipits)",
+        "winters to north and east Africa, southern Asia, and southeastern Asia"
+    ],
+    "gybpri1": [
+        "Gray-breasted Prinia",
+        "Prinia hodgsonii",
+        "Passeriformes",
+        "Cisticolidae (Cisticolas and Allies)",
+        "SW peninsular India (E Ghats to s Mysore and Kerala)"
+    ],
+    "heswoo1": [
+        "Heart-spotted Woodpecker",
+        "Hemicircus canente",
+        "Piciformes",
+        "Picidae (Woodpeckers)",
+        "Humid forests of pen. India, Myanmar, Thailand and Indochina"
+    ],
+    "insbab1": [
+        "Indian Scimitar-Babbler",
+        "Pomatorhinus horsfieldii",
+        "Passeriformes",
+        "Timaliidae (Tree-Babblers, Scimitar-Babblers, and Allies)",
+        "W India (Western Ghats from Satpura Range to Goa)"
+    ],
+    "integr": [
+        "Intermediate Egret",
+        "Ardea intermedia",
+        "Pelecaniformes",
+        "Ardeidae (Herons, Egrets, and Bitterns)",
+        " Japan to s India and Greater Sundas"
+    ],
+    "labcro1": [
+        "Large-billed Crow",
+        "Corvus macrorhynchos",
+        "Passeriformes",
+        "Corvidae (Crows, Jays, and Magpies)",
+        "N China to n Indochina and Taiwan"
+    ],
+    "marsan": [
+        "Marsh Sandpiper",
+        "Tringa stagnatilis",
+        "Charadriiformes",
+        "Scolopacidae (Sandpipers and Allies)",
+        "Palearctic; winters to s Africa, s Asia and Australasia"
+    ],
+    "paisto1": [
+        "Painted Stork",
+        "Mycteria leucocephala",
+        "Ciconiiformes",
+        "Ciconiidae (Storks)",
+        "Lowlands of Indian subcontinent to s China and SE Asia"
+    ],
+    "purher1": [
+        "Purple Heron",
+        "Ardea purpurea",
+        "Pelecaniformes",
+        "Ardeidae (Herons, Egrets, and Bitterns)",
+        "Southern and e Asia, Indonesia and Philippine Islands"
+    ],
+    "redspu1": [
+        "Red Spurfowl",
+        "Galloperdix spadicea",
+        "Galliformes",
+        "Phasianidae (Pheasants, Grouse, and Allies)",
+        " S India (Kerala coast)"
+    ],
+    "rewbul": [
+        "Red-whiskered Bulbul",
+        "Pycnonotus jocosus",
+        "Passeriformes",
+        "Pycnonotidae (Bulbuls)",
+        "Lowlands of e India to Myanmar and sw Thailand"
+    ],
+    "rewlap1": [
+        "Red-wattled Lapwing",
+        "Vanellus indicus",
+        "Charadriiformes",
+        "Charadriidae (Plovers and Lapwings)",
+        " E Pakistan, India, Nepal and Bangladesh"
+    ],
+    "sqtbul1": [
+        "Square-tailed Bulbul",
+        "Hypsipetes ganeesa",
+        "Passeriformes",
+        "Pycnonotidae (Bulbuls)",
+        "SW India (Western Ghats)"
+    ],
+    "wemhar1": [
+        "Eurasian Marsh-Harrier",
+        "Circus aeruginosus",
+        "Accipitriformes",
+        "Accipitridae (Hawks, Eagles, and Kites)",
+        "winters in sub-Saharan Africa (south to northern South Africa) and south Asia"
+    ],
+    "whbsho3": [
+        "White-bellied Sholakili",
+        "Sholicola albiventris",
+        "Passeriformes",
+        "Muscicapidae (Old World Flycatchers)",
+        "southern western Ghats (south of the Palghat Gap) in Kerala and Tamil Nadu, southern India"
+    ],
+    "whcbar1": [
+        "White-cheeked Barbet",
+        "Psilopogon viridis",
+        "Piciformes",
+        "Megalaimidae (Asian Barbets)",
+        "Lowlands and foothills of w-central and sw India"
+    ],
+    "whtkin2": [
+        "White-throated Kingfisher",
+        "Halcyon smyrnensis",
+        "Coraciiformes",
+        "Alcedinidae (Kingfishers)",
+        "W India and Sri Lanka"
+    ],
+    "yebbul3": [
+        "Yellow-browed Bulbul",
+        "Iole indica",
+        "Passeriformes",
+        "Pycnonotidae (Bulbuls)",
+        "SW India and Sri Lanka (except for southwest)"
+    ],
+    "zitcis1": [
+        "Zitting Cisticola",
+        "Cisticola juncidis",
+        "Passeriformes",
+        "Cisticolidae (Cisticolas and Allies)",
+        "E Afghanistan to Pakistan, Nepal, n Myanmar, India, Sri Lanka"
+    ]
+}
